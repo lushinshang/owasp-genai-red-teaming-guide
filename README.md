@@ -19,7 +19,7 @@ OWASP GenAI Security Project 在 2026 年 10 月發布《GenAI Red Teaming Manua
 | `glossary.html` | 台灣資訊資安用語對照網頁（250 條，可搜尋、分類篩選） |
 | `owasp-genai-red-teaming-guide.md` | 導讀正文（Markdown） |
 | `glossary.tsv` | 用語對照原始資料（Tab 分隔，UTF-8） |
-| `images/` | 手冊內 9 張圖的繁體中文翻譯與導讀者自製的 5 張概念圖（WebP） |
+| `images/` | 手冊內 9 張圖的繁體中文翻譯與導讀者自製的 5 張概念圖（WebP），以及 LINE／社群分享用的預覽圖 `og-eight-phases.jpg`（1200×630） |
 | `README.md` | 本檔 |
 | `share_post.md` | 社群分享文 |
 | `.gitignore` | 忽略本機 QA 截圖與暫存檔 |
